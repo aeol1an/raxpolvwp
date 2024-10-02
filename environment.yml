@@ -20,7 +20,7 @@ dependencies:
     - ipywidgets=8.1.1
     - ipyevents=2.0.2
     - pint=0.22
-    - metpy=1.5.1
+    - metpy=1.6.3
     - scipy=1.11.3
     - siphon=0.9
     - vtk=9.2.6
